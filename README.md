@@ -31,9 +31,9 @@ Programmer :
 
 Kurniawan. trainingxcode@gmail.com. xcode.or.id
 
-
-Jika ingin donasi untuk Kurniawan :
------------------------------------
+Donasi :
+--------
+Jika ingin donasi untuk Kurniawan
 
 ![alt text](http://xcodeserver.my.id/gofood.png)
 
