@@ -24,7 +24,7 @@ Program ini berjalan baik di Linux Mint 18.3 Sylvia.
 Licensi
 -------
 
-GNU General Public License
+GNU General Public License v3
 
 Programmer :
 ------------
