@@ -29,7 +29,7 @@ GNU General Public License v3
 Programmer :
 ------------
 
-Kurniawan. trainingxcode@gmail.com. xcode.or.id
+Kurniawan. kurniawan@xcodetraining.com. xcode.or.id
 
 Donasi :
 --------
