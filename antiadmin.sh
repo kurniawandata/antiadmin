@@ -7,7 +7,7 @@ echo "================================================";
 echo "       X-code Anti Admin (Root access only)     ";
 echo "                 Version v0.1                   ";
 echo "                Oleh Kurniawan                  ";
-echo "         kurniawan@xcodetraining.com            ";
+echo "         kurniawan@securityhub.id               ";
 echo "                 xcode.or.id                    ";
 echo "------------------------------------------------";
 echo "1.  Cek keberadaan log user                     ";
@@ -229,7 +229,7 @@ case $choice in
 esac
 echo ""
 echo "X-code Anti Admin (Root access only)"
-echo "Oleh Kurniawan - trainingxcode@gmail.com. xcode.or.id"
+echo "Oleh Kurniawan. xcode.or.id. E-mail : kurniawan@securityhub.id"
 echo ""
 echo -n "Kembali ke menu? [y/n]: ";
 read again;
