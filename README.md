@@ -29,7 +29,7 @@ GNU General Public License v3
 Programmer :
 ------------
 
-Kurniawan. E-mail : kurniawan@securityhub.id
+Kurniawan. E-mail : kurniawanajazenfone@gmail.com
 
 Donasi :
 --------
