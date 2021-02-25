@@ -7,7 +7,7 @@ echo "================================================";
 echo "       X-code Anti Admin (Root access only)     ";
 echo "                 Version v0.1                   ";
 echo "                Oleh Kurniawan                  ";
-echo "         kurniawan@securityhub.id               ";
+echo "         kurniawanajazenfone@gmail.com          ";
 echo "                 xcode.or.id                    ";
 echo "------------------------------------------------";
 echo "1.  Cek keberadaan log user                     ";
