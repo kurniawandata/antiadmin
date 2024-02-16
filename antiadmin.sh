@@ -1,6 +1,6 @@
 #!/bin/bash
 again='y'
-while [ $again == 'Y' ] || [ $again == 'y' ];
+while [ $again == 'y' ];
 do
 clear
 echo "================================================";
@@ -233,7 +233,8 @@ echo "Oleh Kurniawan. xcode.or.id. E-mail : kurniawan@securityhub.id"
 echo ""
 echo -n "Kembali ke menu? [y/n]: ";
 read again;
-while [ $again != 'Y' ] && [ $again != 'y' ] && [ $again != 'N' ] && [ $again != 'n' ];
+again=$(echo $again | awk '{print tolower($0)}')
+while [ $again != 'y' ] && [ $again != 'n' ];
 do
 echo "Masukkan yang anda pilih tidak ada di menu";
 echo -n "Kembali ke menu? [y/n]: ";
